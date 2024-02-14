@@ -1,0 +1,16 @@
+.nav-item {
+  font-size: 20px;
+  font-weight: 600;
+  padding: 15px;
+}
+
+.navigation-links {
+  padding: 5px;
+  border: 1px solid transparent;
+  text-decoration: none;
+  color: #334155;
+}
+
+.navigation-links:hover {
+  text-decoration: none;
+}
