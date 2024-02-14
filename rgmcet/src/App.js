@@ -5,6 +5,7 @@ import Home from './components/Home';
 import About from './components/About';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import Form from './components/Form';
 import NotFound from './components/NotFound';
 
 const App = () => (
@@ -16,7 +17,8 @@ const App = () => (
       <Route exact path="/contact" element={<Contact />} />
       <Route path="*" element={<NotFound />} />
     </Routes>
-    <Footer />
+    <Form />
+    {/* <Footer /> */}
   </BrowserRouter>
 );
 
