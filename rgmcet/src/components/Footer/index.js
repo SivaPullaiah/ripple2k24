@@ -8,7 +8,6 @@ const Footer = () => {
           <div className="div-block-183198052143892">
             <a
               href="https://www.rgmcet.edu.in/"
-              rel="noreferrer"
               id="topin-tech-white-logo-footer"
               className="footer-logo-link track-button w-inline-block"
             >
@@ -41,7 +40,7 @@ const Footer = () => {
               </a>
               <a
                 id="phone-number-footer"
-                href="https://api.whatsapp.com/send?phone=+918008838383&amp;text=Hey%2C%20I%20have%20a%20query"
+                href="https://api.whatsapp.com/send?phone=+919391993975&amp;text=Hey%2C%20I%20have%20a%20query"
                 target="_blank"
                 className="link-menu-item track-button w-inline-block"
               >
@@ -50,7 +49,7 @@ const Footer = () => {
                   alt="WhatsApp Icon"
                   className="email---icon"
                 />
-                <div className="footer-link pl-2">+91 8008838383</div>
+                <div className="footer-link pl-2">+91 9391993975</div>
               </a>
             </div>
           </div>
