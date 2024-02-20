@@ -43,6 +43,11 @@ const Header = () => {
                 Contact
               </Link>
             </div>
+            <div className="nav-item">
+              <Link to="/registration" className="navigation-links">
+                Register Now!
+              </Link>
+            </div>
           </div>
         </div>
       </div>

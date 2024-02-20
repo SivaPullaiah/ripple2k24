@@ -1,0 +1,46 @@
+label {
+  color: rgb(51 65 85);
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 0;
+  padding: 0px;
+  margin: 0px;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.inputEle {
+  width: 100%;
+  border-color: rgba(229, 231, 235, 1);
+  border-radius: 8px;
+}
+.submitForm {
+  width: 100%;
+}
+.form {
+  width: 455px;
+  height: 630px auto;
+  background-color: #fff;
+  border: 1px solid #cbd5e1;
+  border-radius: 16px;
+  justify-content: center;
+  align-items: center;
+  padding: 24px 32px;
+  overflow: auto;
+}
+.form-row {
+  margin: 0px;
+  width: 100%;
+}
+
+.form-group {
+  width: 100%;
+}
+
+.labelName {
+  margin: 0px;
+}
+
+.submit-text {
+  font-weight: 500;
+}
