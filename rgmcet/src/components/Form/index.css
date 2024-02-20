@@ -1,3 +1,8 @@
+.formSection {
+  width: 100vw;
+  background-image: url('https://res.cloudinary.com/sivapullaiah/image/upload/v1708402191/ezgif.com-webp-to-png-converter_nzfqhc.avif');
+  background-size: cover;
+}
 label {
   color: rgb(51 65 85);
   font-weight: 500;
@@ -16,6 +21,7 @@ label {
 }
 .submitForm {
   width: 100%;
+  z-index: 2;
 }
 .form {
   width: 455px;
@@ -28,6 +34,16 @@ label {
   padding: 24px 32px;
   overflow: auto;
 }
+.w-embed {
+  z-index: -1;
+  flex: none;
+  position: absolute;
+  top: auto;
+  bottom: 17%;
+  left: -9%;
+  right: auto;
+}
+
 .form-row {
   margin: 0px;
   width: 100%;
